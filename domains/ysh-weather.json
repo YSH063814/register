@@ -1,0 +1,11 @@
+{
+  "description": "天气仪表盘公开页面",
+  "repo": "https://github.com/YSH063814/YSH.github.io",
+  "owner": {
+    "username": "YSH063814",
+    "email": "1350460939@qq.com"
+  },
+  "record": {
+    "CNAME": "weather-dashboard-public.pages.dev"
+  }
+}
